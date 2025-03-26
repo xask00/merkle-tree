@@ -1,6 +1,6 @@
 # merkle-tree
 
-The Goal is to create a high performance merkle tree in Rust
+The Goal is to create a high performance merkle tree in Rust and Golang
 
 |Status|Feature|Details|
 |--|--|--|
